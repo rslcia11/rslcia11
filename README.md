@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <img src="assets/header.svg" width="100%" alt="Wilson Martínez, full-stack developer: backend, data systems and machine learning. Loja, Ecuador." />
+  <img src="assets/header.svg" width="100%" alt="Wilson Martínez, full-stack and machine learning. Loja, Ecuador." />
 </picture>
 
 <p align="center">
