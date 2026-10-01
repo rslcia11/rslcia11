@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Wilson Martínez, full-stack developer: backend, data systems and machine learning">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#FFFFFF" fill-opacity=".07"/></pattern>
+    <radialGradient id="g1"><stop offset="0" stop-color="#0B6E5E" stop-opacity=".7"/><stop offset="1" stop-color="#0B6E5E" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2"><stop offset="0" stop-color="#F2B33D" stop-opacity=".22"/><stop offset="1" stop-color="#F2B33D" stop-opacity="0"/></radialGradient>
+    <style>
+      .halo { animation: breathe 6s ease-in-out infinite; }
+      .halo2 { animation: breathe 6s ease-in-out 3s infinite; }
+      .term { animation: float 7s ease-in-out infinite; }
+      .dot { animation: pulse 2s ease-in-out infinite; }
+      @keyframes breathe { 50% { opacity: .35; } }
+      @keyframes float { 50% { transform: translateY(-6px); } }
+      @keyframes pulse { 50% { opacity: .3; } }
+      @keyframes k0{0%,4.0%{opacity:0}5.2%,88%{opacity:1}93%,100%{opacity:0}}.l0{animation:k0 16.0s linear infinite}@keyframes k1{0%,9.5%{opacity:0}10.7%,88%{opacity:1}93%,100%{opacity:0}}.l1{animation:k1 16.0s linear infinite}@keyframes k2{0%,15.0%{opacity:0}16.2%,88%{opacity:1}93%,100%{opacity:0}}.l2{animation:k2 16.0s linear infinite}@keyframes k3{0%,20.5%{opacity:0}21.7%,88%{opacity:1}93%,100%{opacity:0}}.l3{animation:k3 16.0s linear infinite}@keyframes k4{0%,26.0%{opacity:0}27.2%,88%{opacity:1}93%,100%{opacity:0}}.l4{animation:k4 16.0s linear infinite}@keyframes k5{0%,31.5%{opacity:0}32.7%,88%{opacity:1}93%,100%{opacity:0}}.l5{animation:k5 16.0s linear infinite}@keyframes k6{0%,37.0%{opacity:0}38.2%,88%{opacity:1}93%,100%{opacity:0}}.l6{animation:k6 16.0s linear infinite}@keyframes k7{0%,42.5%{opacity:0}43.7%,88%{opacity:1}93%,100%{opacity:0}}.l7{animation:k7 16.0s linear infinite}@keyframes k8{0%,48.0%{opacity:0}49.2%,88%{opacity:1}93%,100%{opacity:0}}.l8{animation:k8 16.0s linear infinite}@keyframes kc{0%,53.5%{opacity:0}54.0%,88%{opacity:1}93%,100%{opacity:0}}.cur{animation:kc 16.0s linear infinite}.blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+      @media (prefers-reduced-motion: reduce) {
+        * { animation: none !important; }
+      }
+    </style>
+  </defs>
+  <rect width="1280" height="420" rx="22" fill="#111A17"/>
+  <rect width="1280" height="420" rx="22" fill="url(#dots)"/>
+  <circle class="halo" cx="230" cy="150" r="300" fill="url(#g1)"/>
+  <circle class="halo2" cx="1010" cy="330" r="280" fill="url(#g2)"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="72" y="104" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#3FCF8E" letter-spacing="3">HI, I'M</text>
+    <text x="70" y="168" font-size="60" font-weight="800" fill="#FFFFFF">Wilson Martínez</text>
+    <text x="72" y="214" font-size="27" font-weight="600" fill="#E1E8E5">Full-stack developer</text>
+    <text x="72" y="250" font-size="20" fill="#9DB0A9">Backend, data systems and machine learning.</text>
+    <text x="72" y="278" font-size="20" fill="#9DB0A9">From the database to the phone in your hand.</text>
+    <g font-size="16" font-weight="700">
+      <rect x="72" y="306" width="146" height="36" rx="18" fill="#FFFFFF" fill-opacity=".09"/>
+      <text x="145" y="330" fill="#FFFFFF" text-anchor="middle">Loja, Ecuador</text>
+      <rect x="230" y="306" width="190" height="36" rx="18" fill="#FFFFFF" fill-opacity=".09"/>
+      <text x="325" y="330" fill="#FFFFFF" text-anchor="middle">Shipping since 2023</text>
+      <rect x="432" y="306" width="180" height="36" rx="18" fill="#F2B33D"/>
+      <circle class="dot" cx="454" cy="324" r="5" fill="#111A17"/>
+      <text x="532" y="330" fill="#111A17" text-anchor="middle">Building Kriterio</text>
+    </g>
+  </g>
+
+  <g transform="translate(0 -16)"><g class="term" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17">
+    <rect x="650" y="46" width="580" height="358" rx="14" fill="#0A100E" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <path d="M650 60a14 14 0 0 1 14-14h552a14 14 0 0 1 14 14v26h-580z" fill="#FFFFFF" fill-opacity=".05"/>
+    <circle cx="672" cy="66" r="6" fill="#FF5F57"/>
+    <circle cx="692" cy="66" r="6" fill="#FEBC2E"/>
+    <circle cx="712" cy="66" r="6" fill="#28C840"/>
+    <text x="940.0" y="71" font-size="14" fill="#8FA39C" text-anchor="middle">wilson@dev: ~</text>
+        <text class="l0" x="676" y="126" xml:space="preserve"><tspan fill="#3FCF8E">~</tspan><tspan fill="#8FA39C"> $ </tspan><tspan fill="#FFFFFF">whoami</tspan></text>
+    <text class="l1" x="676" y="155" xml:space="preserve"><tspan fill="#C9D4D0">wilson · full-stack developer · Loja, EC</tspan></text>
+    <text class="l2" x="676" y="184" xml:space="preserve"><tspan fill="#3FCF8E">~</tspan><tspan fill="#8FA39C"> $ </tspan><tspan fill="#FFFFFF">cat stack.txt</tspan></text>
+    <text class="l3" x="676" y="213" xml:space="preserve"><tspan fill="#F2B33D">backend </tspan><tspan fill="#C9D4D0">  FastAPI · NestJS · Django</tspan></text>
+    <text class="l4" x="676" y="242" xml:space="preserve"><tspan fill="#F2B33D">frontend</tspan><tspan fill="#C9D4D0">  React · Next.js · TypeScript</tspan></text>
+    <text class="l5" x="676" y="271" xml:space="preserve"><tspan fill="#F2B33D">data/ml </tspan><tspan fill="#C9D4D0">  PostgreSQL · TimescaleDB · LightGBM</tspan></text>
+    <text class="l6" x="676" y="300" xml:space="preserve"><tspan fill="#F2B33D">mobile  </tspan><tspan fill="#C9D4D0">  Flutter · Supabase</tspan></text>
+    <text class="l7" x="676" y="329" xml:space="preserve"><tspan fill="#3FCF8E">~</tspan><tspan fill="#8FA39C"> $ </tspan><tspan fill="#FFFFFF">docker compose up -d</tspan></text>
+    <text class="l8" x="676" y="358" xml:space="preserve"><tspan fill="#3FCF8E">✓ api  ✓ db  ✓ worker   running</tspan></text>
+    <g class="cur"><text x="676" y="387"><tspan fill="#3FCF8E">~</tspan><tspan fill="#8FA39C"> $ </tspan></text><rect class="blink" x="720" y="371" width="10" height="20" fill="#3FCF8E"/></g>
+  </g></g>
+</svg>
